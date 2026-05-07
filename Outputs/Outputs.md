@@ -1,1 +1,36 @@
 This folder will contain saved files and items from the codebooks.
+
+Here is what you should expect
+
+lOGISTIC REGRESSION
+
+01_logreg_01_confusion_matrix.png
+01_logreg_01_confusion_matrix.svg
+01_logreg_02_classification_report.csv
+01_logreg_03_coefficients_full.csv
+01_logreg_04_coefficient_summary.csv
+01_logreg_05_signed_coefficients.png
+01_logreg_05_signed_coefficients.svg
+01_logreg_05_signed_coefficients_subset.csv
+01_logreg_06_odds_ratios_selected.png
+01_logreg_06_odds_ratios_selected.svg
+01_logreg_06_odds_ratios_selected.csv
+
+Decision Tree
+02_tree_01_confusion_matrix.png
+02_tree_01_confusion_matrix.svg
+02_tree_02_structure.png
+02_tree_02_structure.svg
+
+EMB
+
+03_ebm_01_classification_report.csv
+03_ebm_02_validation_predictions.csv
+03_ebm_03_confusion_matrix.png
+03_ebm_03_confusion_matrix.svg
+03_ebm_04_term_importances.csv
+03_ebm_05_global_overall.html
+03_ebm_06_term_plot_age.html
+03_ebm_07_term_plot_marital_status.html
+03_ebm_08_term_plot_capital_gain.html
+03_ebm_09_term_plot_hours_per_week.html
