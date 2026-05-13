@@ -19,7 +19,6 @@ Session 1: This session will be held on **Friday 1st May** from **10:00-12:00** 
 - Local and global post hoc methods
  >  Hands on exercise
 
- > *Take home mini exercise*
 
 Session 2: This session will be held on **Friday 8th May** from **10:00-12:00** - in-person
 - What makes a black-box model?
@@ -33,9 +32,10 @@ Session 2: This session will be held on **Friday 8th May** from **10:00-12:00** 
  > Hands-on exercise
 
 # Repository structure
-- Data
-- Codebooks (folder with 3 codebooks)
-- Slides (after each session, 2 sets of slides)
+- Data (data files from UC Irvine, Adult Census)
+- Codebooks (Session 1 & 2 codebooks)
+- Outputs (saved outputs from each codebook)
+
 
 # Setup instructions
 
