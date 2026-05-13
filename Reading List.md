@@ -2,7 +2,7 @@
 
 **Foundation texts to get going:** 
 > 1.  Molnar, C. (2020). Interpretable Machine Learning. (https://christophm.github.io/interpretable-ml-book/)
-> 2. David Gunning et al. ,XAI—Explainable artificial intelligence.Sci. Robot.4,eaay7120(2019). 
+> 2. David Gunning et al., XAI—Explainable artificial intelligence. Sci. Robot. 4,eaay7120(2019). (https://doi.org/10.1126/scirobotics.aay7120)
 
  For a refresh on ML & statistics before hitting the explainable frameworks, see: 
  - Hastie, Trevor, Robert Tibshirani, and Jerome Friedman. "The elements of statistical learning." (2009).
