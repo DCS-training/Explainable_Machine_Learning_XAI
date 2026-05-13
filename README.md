@@ -33,7 +33,7 @@ Session 2: This session will be held on **Friday 8th May** from **10:00-12:00** 
  > Hands-on exercise
 
 # Repository structure
-- Data (folder with one dataset, adult census data, second data to be called in from Project Gutenberg within the codebook)
+- Data
 - Codebooks (folder with 3 codebooks)
 - Slides (after each session, 2 sets of slides)
 
