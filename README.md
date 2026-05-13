@@ -77,3 +77,8 @@ If you are part of the University of Edinburgh you can use \[Noteable](https://n
 A Guide for Making Black Box Models Explainable (3rd ed.).
 christophm.github.io/interpretable-ml-book/
 - [Recap of ML Foundations via Alan Turing Institute - Responsible AI](https://pykale.github.io/transparentML/index.html) - includes code walk through & quizzes.
+
+### License
+#### Copyright
+
+This repository has a [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/) license
